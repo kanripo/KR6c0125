@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說最上根本大樂金剛不空三昧大教王經
+#+DATE: 2015-08-30 19:45:53.024246
+#+PROPERTY: JUAN 0
